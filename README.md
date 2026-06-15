@@ -50,7 +50,7 @@ Built with a single HTML file — no build tools, no frameworks, no dependencies
 
 ## Process & Tools
 
-I designed and built this template myself — the visual direction, layout structure, color palette, typography choices, and overall brand identity are mine. For parts of the implementation I used AI as a coding assistant to speed things up, help debug issues, and refine the细节. Think of it like having a senior dev pair-programming with me — I drive the design, and AI helps with the code.
+I designed and built this template myself — the visual direction, layout structure, color palette, typography choices, and overall brand identity are mine. For parts of the implementation I used AI as a coding assistant to speed things up, help debug issues, and refine the details. Think of it like having a senior dev pair-programming with me — I drive the design, and AI helps with the code.
 
 I believe being transparent about this matters. Using AI doesn't mean you didn't build it. It means you used every tool available to ship something better.
 

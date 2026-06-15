@@ -54,13 +54,9 @@ I designed and built this template myself — the visual direction, layout struc
 
 I believe being transparent about this matters. Using AI doesn't mean you didn't build it. It means you used every tool available to ship something better.
 
-## Learning & Growth
+## Learning
 
-Every line of code in this template taught me something. 
-
-I made mistakes along the way — over-complicated selectors, CSS variable scoping issues, forgetting `overflow: hidden` on glass cards, fighting with z-index stacking, and plenty of responsive breakpoint guesswork. Each mistake was a lesson. I fixed them, learned why they happened, and the next project will be cleaner because of it.
-
-This template represents not just a design, but a snapshot of my journey — what I knew, what I figured out, and what I'm still getting better at. The best designers aren't the ones who never make mistakes. They're the ones who catch them, understand them, and grow from them.
+The learning happened in the process of building this — fixing what broke, figuring out what worked, and shipping it anyway.
 
 ---
 

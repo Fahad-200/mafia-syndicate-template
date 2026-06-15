@@ -52,9 +52,13 @@ Built with a single HTML file — no build tools, no frameworks, no dependencies
 
 I created this template to push my front-end skills — crafting a cohesive visual identity, building complex responsive layouts with pure CSS Grid, and adding polish with micro-interactions. Every element was hand-coded with attention to typography, spacing, color theory, and motion design.
 
-## About Me
+## Learning & Growth
 
-I'm a front-end designer passionate about building beautiful, performant, and memorable web experiences. I care about the details — from pixel-perfect alignment to smooth animation curves to thoughtful accessibility.
+Every line of code in this template taught me something. 
+
+I made mistakes along the way — over-complicated selectors, CSS variable scoping issues, forgetting `overflow: hidden` on glass cards, fighting with z-index stacking, and plenty of responsive breakpoint guesswork. Each mistake was a lesson. I fixed them, learned why they happened, and the next project will be cleaner because of it.
+
+This template represents not just a design, but a snapshot of my journey — what I knew, what I figured out, and what I'm still getting better at. The best designers aren't the ones who never make mistakes. They're the ones who catch them, understand them, and grow from them.
 
 ---
 

@@ -4,23 +4,23 @@
 
 ## Overview
 
-A premium, dark-themed brand landing page built as a personal project to showcase front-end design and development skills. The template features a bold cinematic aesthetic with glassmorphism cards, animated blobs, smooth scroll interactions, 3D tilt effects, and a fully responsive layout.
+A dark-themed brand landing page built as a personal project. It uses glassmorphism-style cards, some animated background blobs, smooth scroll navigation, and a basic 3D hover tilt on cards.
 
 Built with a single HTML file — no build tools, no frameworks, no dependencies (other than the Tailwind CDN for utility classes).
 
 ## Features
 
-- **Cinematic dark UI** — Deep charcoal palette with gold accents for a luxury feel
-- **Glassmorphism cards** — Backdrop-filter blur with subtle border glows
-- **Animated background blobs** — CSS-keyframed organic blob animations
-- **3D tilt effect** — Interactive perspective shift on hover over cards
-- **Smooth scroll navigation** — Section-based single-page layout
-- **Responsive grid** — Adapts from mobile to ultra-wide seamlessly
-- **FAQ accordion** — Pure CSS toggle interaction
-- **Custom scrollbar** — Themed scrollbar for WebKit and Firefox
-- **Marquee ticker** — Infinite scrolling brand pillar strip
-- **Cursor glow** — Subtle mouse-following ambient light effect
-- **Reduced motion support** — Respects prefers-reduced-motion
+- **Dark theme** — Charcoal palette with gold accents
+- **Glassmorphism-style cards** — Backdrop blur with border glow
+- **Animated blobs** — CSS-keyframed background shapes
+- **3D tilt on hover** — Cards rotate slightly on mouse move
+- **Smooth scroll** — Section-based single-page nav
+- **Responsive grid** — Adapts layout for mobile to desktop
+- **FAQ accordion** — Pure CSS toggle
+- **Custom scrollbar** — WebKit + Firefox scrollbar styling
+- **Marquee strip** — Infinite scrolling text bar
+- **Cursor glow** — Small mouse-following light effect
+- **Reduced motion** — Respects prefers-reduced-motion
 
 ## Sections
 

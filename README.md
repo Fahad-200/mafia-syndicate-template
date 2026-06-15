@@ -48,9 +48,11 @@ Built with a single HTML file — no build tools, no frameworks, no dependencies
 - Google Fonts (Cinzel + Josefin Sans)
 - SVG (custom crest, filters, icons)
 
-## Why I Built This
+## Process & Tools
 
-I created this template to push my front-end skills — crafting a cohesive visual identity, building complex responsive layouts with pure CSS Grid, and adding polish with micro-interactions. Every element was hand-coded with attention to typography, spacing, color theory, and motion design.
+I designed and built this template myself — the visual direction, layout structure, color palette, typography choices, and overall brand identity are mine. For parts of the implementation I used AI as a coding assistant to speed things up, help debug issues, and refine the细节. Think of it like having a senior dev pair-programming with me — I drive the design, and AI helps with the code.
+
+I believe being transparent about this matters. Using AI doesn't mean you didn't build it. It means you used every tool available to ship something better.
 
 ## Learning & Growth
 
